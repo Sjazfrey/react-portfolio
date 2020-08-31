@@ -7,7 +7,7 @@
             return(
               <div id="resume">   
       
-      <iframe src="./Resume.pdf" frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:100vh;"></iframe>
+      <iframe src="./Resume.pdf" width="100%" height="600px"></iframe>
         {/* <h2>Resume</h2>
         <b>Shirley Kaffrey<br />Software Developer<br /> Loveland, CO<br /> 719.238.9967<br /></b>
            <a href="mailto:Shirley.Kaffrey@gmail.com​">Shirley.Kaffrey@gmail.com​</a>| jazfrey.github<br />
