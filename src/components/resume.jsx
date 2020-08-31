@@ -7,8 +7,8 @@
             return(
               <div id="resume">   
       
-      
-        <h2>Resume</h2>
+      <embed src="./Resume.pdf" type="application/pdf" width="100vw" height="100vh"/>
+        {/* <h2>Resume</h2>
         <b>Shirley Kaffrey<br />Software Developer<br /> Loveland, CO<br /> 719.238.9967<br /></b>
            <a href="mailto:Shirley.Kaffrey@gmail.com​">Shirley.Kaffrey@gmail.com​</a>| jazfrey.github<br />
     
@@ -31,23 +31,23 @@
           routes, Mongo and Mongoose, Sessions and Authentication, along with Heroku in a 500-hour full-time course over the
           duration of only 3 months.<br />
           <strong>PROJECTS:</strong><br />
-           <i>* ​Developed a portfolio of projects:</i>
+           <i>* ​Developed a portfolio of projects:</i>< br />
           <strong>Memory Game​ Project:</strong> Using GitHub, DOM, AJAX, CSS, jQuery. This app was developed using
           jquery animate along with the above mentioned technologies. It's a tile base game with an 8x8 grid where the user
           turns over 2 tiles at a time to attempt to find a match. If the 2 tiles do not match then the tiles will flip back
-          over and the user can take another turn. ​https://sjazfrey.github.io/first_project<br />
+          over and the user can take another turn. ​<br /><br />
           <strong>Tinetti Balance Website​- Second Project:</strong> CRUD app using GitHub, DOM manipulation, AJAX, CSS,
           jQuery, Express, EJS, 7 RESTful routes, MongoDB / Mongoose, and Heroku. This app was developed for Physical
           Therapists to use to be able to perform the balance test with their clients. This project used radio buttons to
           click on to score each test section then automatically scored the test for the therapist, and it would keep the
           score, the date, and the name which assisted the therapist in keeping track of this information.
-          ​http://tinetti.herokuapp.com/<br />
+          <br /><br />
     
           <strong>Bookworm-​ Third project was a group project.</strong> I did the frontend using MERN: MongoDB,
           Express, React, and NodeJS along with CRUD. This app was developed using Google API to search for books, favorite
-          books, and add books to your collection of books. https://mighty-meadow-95753.herokuapp.com/<br />
+          books, and add books to your collection of books. <br />
     
-          <br /><strong>Smartini App-Fourth project.</strong>This Trivia App used Express, Handlebars and Zurb Foundations along with Socket.io to create this app to make an online trivia game that can use Zoom or another online video chat to answer trivia questions and then submit them to the host of the game. http://smartini.herokuapp.com/smartini/<br />
+          <br /><strong>Smartini App-Fourth project.</strong>This Trivia App used Express, Handlebars and Zurb Foundations along with Socket.io to create this app to make an online trivia game that can use Zoom or another online video chat to answer trivia questions and then submit them to the host of the game. <br /><br />
           
     
           <strong>EXPERIENCE:</strong>
@@ -61,14 +61,14 @@
           Licensed Physical Therapist Assistant: In the field for 15+ years, worked in various settings providing patient
           care to increase strength, balance, and rehab for total knee, hip and shoulders. Skills include caring and
           positive attitude, working and motivating people, point of service documentation on electronic device to increase
-          productivity.<br />
+          productivity.<br /><br />
     
           <strong>EDUCATION:</strong>
           
           General Assembly Software Engineering Immersive, Atlanta, GA 05/2020 - 08/2020
         
           Associate in Applied
-          Science in PTA, Colby Community College, Colby, Ks.
+          Science in PTA, Colby Community College, Colby, Ks. */}
     
           </div>    
         
