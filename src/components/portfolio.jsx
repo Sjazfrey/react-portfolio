@@ -58,7 +58,7 @@ render() {
               jQuery, Express, EJS, 7 RESTful routes, MongoDB / Mongoose, and Heroku. This app was developed for Physical
               Therapists to use to be able to perform the balance test with their clients. This project used radio buttons to
               click on to score each test section then automatically scored the test for the therapist, and it would keep the
-              score, the date, and the name which assisted the therapist in keeping track of this information. <a href="https://tinetti.herokuapp.com/">https://tinetti.herokuapp.com/</a><br />
+              score, the date, and the name which assisted the therapist in keeping track of this information. <a href="https://tinetti.herokuapp.com/">https://tinetti.herokuapp.com/</a>I updated the app to make it more usable. <a href="https://tinetti-app.herokuapp.com/">https://tinetti-app.herokuapp.com/</a><br />
         
               <br /><strong>Bookworm-​ Third project was a group project.</strong> I did the frontend using MERN: MongoDB,
               Express, React, and NodeJS along with CRUD. This app was developed using Google API to search for books, favorite
