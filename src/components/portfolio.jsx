@@ -68,9 +68,10 @@ render() {
         
            <p> <strong>Smartini Trivia: Fourth project:</strong> This app contained Express, Auth, Full Crud. A fun Trivia
             app to use online with a group of people or by yourself. Create your own game or have random questions selected for
-            a challenging game. <a
-            href="http://smartini.herokuapp.com/smartini/">http://smartini.herokuapp.com/smartini/</a>
-            <a href="http://smartini.herokuapp.com/index.html">http://smartini.herokuapp.com/index.html</a>
+            a challenging game. 
+            Game:<a
+            href="http://smartini.herokuapp.com/smartini/">http://smartini.herokuapp.com/smartini/</a><br />
+            Socket.io part: <a href="http://smartini.herokuapp.com/index.html">http://smartini.herokuapp.com/index.html</a>
             </p>
           </div> 
           
