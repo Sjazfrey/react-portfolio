@@ -33,23 +33,21 @@
 #portfolio {
     height: 100vh;
     background-color: rgb(204, 237, 248);
-    padding-top: 50px;
-    padding-left: 30px;
-    padding-right: 30px;
-    margin-left: 13px;
+    overflow: auto;
+    padding-top: 70px;
+    
 } 
+.first{
+  display: flex;
+  padding-top: 30px;
+}
 
-.portfolio-images {
-   margin-top: 50px;
+h2{
+  text-align: center;
+  margin-top: 20px;
 }
 
 
-.box img {
-   margin: 0;
-   padding: 0;
-   width: inherit;
-   height: inherit;
-}
 
 blockquote {
     background: #f9f9f9;
@@ -132,13 +130,7 @@ blockquote p {
     overflow-x: hidden;
   }
   
-  img {
-    padding-left: 15px;
-    display: block;
-    overflow-y: hidden;
-    max-width: 100%; 
-    height: 100vh;        
-  }
+
 
   .everything{
     height: 110vh;
@@ -156,18 +148,44 @@ blockquote p {
 
  .box{
   display: inline-block;
-  background-color: grey;
+  /* background-color: grey; */
   width: 100px;
   height: 100px;
-  margin-left: 80px;
+  margin-left: 50px;
   margin-bottom: 40px;    
   
+}
+img {
+  padding-left: 15px;
+  display: block;
+  /* overflow-y: hidden; */
+  max-width: 100%; 
+  height: 100vh;        
+}
+
+.picture{
+    margin-right: 30px;
+    margin-left:50px;
+    width: 120px;
+    height: 120px;
+    align-self: flex-start;
 }
 .box img {
  margin: 0;
  padding: 0;
  width: inherit;
  height: inherit;
+ object-fit: contain;
+ align-self: flex-start;
+}
+
+.info {
+  /* margin-left: 90px; */
+  overflow: auto;
+  /* display: block; */
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  flex: 1 1 auto;
 }
 
 #resume {
