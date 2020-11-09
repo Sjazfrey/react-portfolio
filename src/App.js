@@ -23,7 +23,7 @@ export default class App extends Component {
     )
   }
 }
-
+//to start app npm run dev
    
    
 
