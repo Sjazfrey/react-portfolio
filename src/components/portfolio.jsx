@@ -53,7 +53,7 @@ render() {
            </div> 
 
           <br /> <div className="eighth">
-             <span className="info"><strong>Health App:</strong> An app that uses an API that pulls in information about a food that you type into the search bar.</span> <a href="https://beer-glass-app.herokuapp.com/">"https://beer-glass-app.herokuapp.com/"</a>
+             <span className="info"><strong>Health App:</strong> An app that uses an API that pulls in information about a food that you type into the search bar.</span> <a href="https:checkout-healthy-app.herokuapp.com//">"https://checkout-healthy-app.herokuapp.com/"</a>
            </div> 
 
            <br /> <div className="ninth">
