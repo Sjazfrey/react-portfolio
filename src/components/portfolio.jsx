@@ -49,7 +49,7 @@ render() {
            </div> 
           
            <br /><div className="seventh">
-             <span className="info"><strong>Beer Glass App:</strong> A Triva game app that with react.<a href="https://beer-glass-app.herokuapp.com/">"https://beer-glass-app.herokuapp.com/"</a></span>
+             <span className="info"><strong>Beer Glass App:</strong> Information on beer glasses that uses react.<a href="https://beer-glass-app.herokuapp.com/">"https://beer-glass-app.herokuapp.com/"</a></span>
            </div> 
 
           <br /> <div className="eighth">
